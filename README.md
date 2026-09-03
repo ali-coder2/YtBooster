@@ -2,9 +2,7 @@
 
 > Yerel bilgisayarınız üzerinden Python ve otomasyon araçlarıyla YouTube videoları için kontrollü izlenme simülasyonları ve testler gerçekleştiren gelişmiş bir otomasyon betiğidir.
 
-![Python](https://img.shields.com/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Playwright](https://img.shields.com/badge/Playwright-Automation-orange?style=for-the-badge&logo=playwright&logoColor=white)
-![License](https://img.shields.com/badge/License-MIT-green?style=for-the-badge)
+`🐍 Python` · `🤖 Playwright` · `🛡️ MIT License`
 
 ---
 
