@@ -28,5 +28,5 @@ Sistemi çalıştırmadan önce aşağıdaki bileşenlerin sisteminizde kurulu o
 
 1. Repoyu klonlayın:
    ```bash
-   git clone [https://github.com/ali-coder2/YtBooster.git](https://github.com/ali-coder2/YtBooster.git)
+   git clone  https://github.com/ali-coder2/YtBooster.git
    cd YtBooster
